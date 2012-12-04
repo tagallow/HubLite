@@ -1,0 +1,12 @@
+HubLite
+
+A simple file sharing program I made for a class in java using TCP and java RMI.
+
+To compile: javac *.java
+
+To run:
+	java Tracker [port]
+
+	java Client [track ip] [port]
+
+You also need to have rmiregistry running to transfer files. Right now its hard coded at port 8092 because I'm lazy.
