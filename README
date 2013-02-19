@@ -10,3 +10,5 @@ To run:
 	java Client [track ip] [port]
 
 You need to have rmiregistry running to transfer files. Right now its hard coded at port 8092.
+
+I really only uploaded this because I wanted something on github. This program is useless.
